@@ -28,7 +28,8 @@
     "node": ">=8.3"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "templates"
   ],
   "homepage": "https://github.com/dinhoabreu/semantic-release-bitbucket-config#readme",
   "keywords": [
