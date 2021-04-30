@@ -2,7 +2,7 @@
 
 [**semantic-release**](https://github.com/semantic-release/semantic-release) shareable config to publish npm packages with [Bitbucket](https://bitbucket.org).
 
-[![Build Status](https://travis-ci.org/dinhoabreu/semantic-release-bitbucket-config.svg?branch=master)](https://travis-ci.org/dinhoabreu/semantic-release-bitbucket-config)
+[![Release](https://github.com/dinhoabreu/semantic-release-bitbucket-config/actions/workflows/release.yml/badge.svg)](https://github.com/dinhoabreu/semantic-release-bitbucket-config/actions/workflows/release.yml)
 
 ## Plugins
 
