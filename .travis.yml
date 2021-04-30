@@ -20,6 +20,6 @@ script:
 jobs:
   include:
     - stage: release
-      node_js: lts/*
+      node_js: 10
       script:
         - npm run semantic-release
