@@ -12,17 +12,17 @@
     }
   },
   "dependencies": {
-    "@semantic-release/changelog": "^3.0.2",
-    "@semantic-release/commit-analyzer": "^6.1.0",
-    "@semantic-release/git": "^7.0.8",
-    "@semantic-release/npm": "^5.1.1",
-    "@semantic-release/release-notes-generator": "^7.1.4"
+    "@semantic-release/changelog": "^3.0.6",
+    "@semantic-release/commit-analyzer": "^6.3.3",
+    "@semantic-release/git": "^7.0.18",
+    "@semantic-release/npm": "^5.3.5",
+    "@semantic-release/release-notes-generator": "^7.3.5"
   },
   "devDependencies": {
-    "commitizen": "^3.0.0",
+    "commitizen": "^3.1.2",
     "cz-conventional-changelog": "^2.0.0",
-    "semantic-release": "^15.10.0",
-    "xo": "^0.24.0"
+    "semantic-release": "^15.14.0",
+    "xo": "^0.39.1"
   },
   "engines": {
     "node": ">=8.3"
