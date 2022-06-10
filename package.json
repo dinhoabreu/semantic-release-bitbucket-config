@@ -22,7 +22,7 @@
   "devDependencies": {
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
-    "semantic-release": "^17.3.0",
+    "semantic-release": "^19.0.3",
     "xo": "^0.39.1"
   },
   "engines": {
