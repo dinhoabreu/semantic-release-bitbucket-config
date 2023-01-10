@@ -23,7 +23,7 @@
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
     "semantic-release": "^17.3.0",
-    "xo": "^0.53.1"
+    "xo": "^0.39.1"
   },
   "engines": {
     "node": ">=10.18"
